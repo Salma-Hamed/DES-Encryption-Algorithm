@@ -24,5 +24,4 @@ Des algorithm is a 16-round encryption technique that encrypts a 64-bit message 
 3. Enter the key (key should be entered using hexadecimal representation).
 4. click 'y' if you want to enter another message, and 'n' if not.
 
-Example:
 <img src = "https://user-images.githubusercontent.com/71777717/142056139-b4f0bec7-60ab-4e7f-afb0-8cdb9b8b0bc7.PNG" width = "800" height = "300" />
