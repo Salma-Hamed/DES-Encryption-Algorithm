@@ -396,7 +396,7 @@ string sbox(string s_48) // returns 32 bits instead of 48 bits
 	}
 	if (sboxs[4] == "000000")sboxs[4] = "0010"; else if (sboxs[4] == "000001")sboxs[4] = "1110"; else if (sboxs[4] == "100000")sboxs[4] = "0100";
 	else if (sboxs[4] == "100001")sboxs[4] = "1011"; else if (sboxs[4] == "000010")sboxs[4] = "1100"; else if (sboxs[4] == "000011")sboxs[4] = "1011";
-	else if (sboxs[4] == "100010")sboxs[4] = "0010"; else if (sboxs[4] == "100011")sboxs[4] = "1000"; else if (sboxs[4] == "000100")sboxs[4] = "1110";
+	else if (sboxs[4] == "100010")sboxs[4] = "0010"; else if (sboxs[4] == "100011")sboxs[4] = "1000"; else if (sboxs[4] == "000100")sboxs[4] = "0100";
 	else if (sboxs[4] == "000101")sboxs[4] = "0010"; else if (sboxs[4] == "100100")sboxs[4] = "0001"; else if (sboxs[4] == "100101")sboxs[4] = "1100";
 	else if (sboxs[4] == "000110")sboxs[4] = "0001"; else if (sboxs[4] == "000111")sboxs[4] = "1100"; else if (sboxs[4] == "100110")sboxs[4] = "1011";
 	else if (sboxs[4] == "100111")sboxs[4] = "0111"; else if (sboxs[4] == "001000")sboxs[4] = "0111"; else if (sboxs[4] == "001001")sboxs[4] = "0100";
